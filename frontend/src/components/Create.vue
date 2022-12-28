@@ -2,7 +2,7 @@
   <div class="container mt-4">
     <form @submit="insertArticle">
       <h5 class="text-style">申请签证目标国家:</h5>
-      <!-- test for updated. -->
+      <!-- test for updated.2022-12-28 -->
       <input
         type="text"
         class="form-control"

@@ -1,6 +1,6 @@
 <template>
   <div class="container mt-5">
-    <h2>{{ article.title }}</h2>
+    <h3>{{ article.title }}</h3>
     <p class="mt-3">
       {{ article.body }}
     </p>
